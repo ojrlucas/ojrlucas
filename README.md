@@ -16,7 +16,7 @@ Sou **Lucas de Araújo**, estudante de **Engenharia de Software** na **UNIASSELV
 
 ### 🎯 Interesses
 
-- 🌱 Atualmente participando da 19ª edição do programa Entra21! Onde estou tendo a oportunidade de aprofundar cada vez mais os meus conhecimentos em Java!  
+- 🌱 Atualmente participando da 19ª edição do programa Entra21 - Java!
 - 💬 Sempre disposto a trocar ideias sobre tecnologia, carreira ou projetos!  
 - 🤝 Aberto a **mentorias, sugestões e colaborações**.
 
