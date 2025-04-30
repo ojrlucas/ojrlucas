@@ -1,6 +1,6 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Sou **Lucas de Araújo**, estudante de **Engenharia de Software** na **UNIASSELVI**, apaixonado por tecnologia e desenvolvimento de software. Estou em busca da minha primeira oportunidade na área, onde eu possa aplicar meus conhecimentos e crescer junto com o time.
+Sou **Lucas de Araújo**, estudante de **Engenharia de Software** na **UNIASSELVI**, apaixonado por tecnologia e desenvolvimento de software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -21,6 +21,5 @@ Sou **Lucas de Araújo**, estudante de **Engenharia de Software** na **UNIASSELV
 ### 🎯 Interesses
 
 - 🌱 Atualmente participando da 19ª edição do programa Entra21! Onde estou tendo a oportunidade de aprofundar cada vez mais os meus conhecimentos em Java!  
-- 👨‍💻 Buscando oportunidades para colaborar em **projetos desafiadores** e aprender com desenvolvedores mais experientes.  
 - 💬 Sempre disposto a trocar ideias sobre tecnologia, carreira ou projetos!  
 - 🤝 Aberto a **mentorias, sugestões e colaborações**.
