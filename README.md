@@ -11,6 +11,8 @@ Sou **Lucas de Araújo**, estudante de **Engenharia de Software** na **UNIASSELV
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+##
+
 ### 🎯 Interesses
 
 - 🌱 Atualmente participando da 19ª edição do programa Entra21! Onde estou tendo a oportunidade de aprofundar cada vez mais os meus conhecimentos em Java!  
